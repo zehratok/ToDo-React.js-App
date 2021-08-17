@@ -1,0 +1,34 @@
+.side-bar
+{   display: flex;
+    flex-direction: column;
+
+    
+}
+.side-bar-items
+{
+    padding: 1px;
+    padding-left: 5%;
+}
+.side-bar-titles
+{
+    padding-left: 14%;
+
+}
+.side-bar-groups
+{
+    padding-left: 15%;
+    font-size: 10px;
+    padding: 3px;
+    
+}
+.add-button
+{
+    padding-left: 30%;
+    padding-top: 12%;
+}
+.check-box
+{
+    padding-top:8%;
+    padding-left: 80%;
+
+}
